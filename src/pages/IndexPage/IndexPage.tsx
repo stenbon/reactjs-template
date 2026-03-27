@@ -7,7 +7,7 @@ export const IndexPage: FC = () => {
   const handleMainAction = () => {
     // Здесь позже повесим нужное действие:
     // открыть другой экран, отправить initData боту, открыть ссылку и т.п.
-    window.open('https://t.me/your_bot', '_blank'); // пока пример
+    window.open('https://t.me/Zakinfo_bot', '_blank'); // пока пример
   };
 
   return (
